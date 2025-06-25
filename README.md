@@ -1,7 +1,6 @@
-# Smart-home-secure
-# 🏠🔐 Projet : Maison Intelligente Sécurisée
+# 🏠🔐 Projet : Conception et sécurisation d’une maison intelligente
 
-Ce projet porte sur la **conception et la simulation d’une maison intelligente sécurisée**, à l’aide de deux environnements de simulation réseau : **Cisco Packet Tracer** et **GNS3**.
+Ce projet porte sur la **conception et sécurisation d’une maison intelligente **, à l’aide de deux environnements de simulation réseau : **Cisco Packet Tracer** et **GNS3**.
 
 ---
 
