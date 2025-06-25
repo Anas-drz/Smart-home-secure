@@ -58,7 +58,7 @@ Ce projet porte sur la **conception et sécurisation d’une maison intelligente
 
 ## 📎 Fichiers inclus
 
-- `rapport.pdf` : Rapport final du projet (85 pages)
+- `Rapport_PFA.pdf` : Rapport final du projet 
 - `LAB_PKT.pkt` : Fichier Cisco Packet Tracer
 - `LAB.gns3` : Projet GNS3
 - `images.zip` : Dossier d’illustrations du rapport
